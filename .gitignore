@@ -1,6 +1,7 @@
 # Robot Framework
 log.html
 report.html
+output.xml
 *.png
 
 # Python
