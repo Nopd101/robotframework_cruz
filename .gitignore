@@ -1,0 +1,11 @@
+# Robot Framework
+log.html
+report.html
+*.png
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+.myvenv/
